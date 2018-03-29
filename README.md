@@ -3,7 +3,7 @@
 [![Code Climate](https://codeclimate.com/github/SUSE/connect.png)](https://codeclimate.com/github/SUSE/connect)
 [![Coverage Status](https://coveralls.io/repos/SUSE/connect/badge.png?branch=master)](https://coveralls.io/r/SUSE/connect)
 
-# SUSEConnect (clone)
+# SUSEConnect (clone/defunkt)
 
 SUSEConnect is a command line tool for connecting a client system to the SUSE Customer Center.
 It will connect the system to your product subscriptions and enable the product repositories/services locally.
